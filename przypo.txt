@@ -1,0 +1,10 @@
+Produkcja:
+Dodanie zakładki i funkcji z uGDZ do BMSa
+(Nawet skopiować tę samą zakładkę do BMSa)
+
+W samym uGDZ:
+Przerobienie wszystkiego na 2 odbiorniki
+Takie same parametry do pomiarów wszystkiego
+Wykres, parametry po lewej
+
+IBB_SDO_STR_MAP1
