@@ -142,6 +142,11 @@ Known limitations and next steps are listed in
 - `fifo.vhd`: based on the open-source synchronous FIFO example from Nandland.
 - Everything else: written during the project.
 
+## License
+
+Released under the [MIT License](LICENSE), except for the third-party files listed
+in the license file and in [Credits](#credits).
+
 ## Author
 
 **Marcel Szerszen** — engineering student, ENSEIRB-MATMECA (Bordeaux, France)
