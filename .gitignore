@@ -1,0 +1,28 @@
+# Vivado generated project (recreate with scripts/create_project.tcl)
+build/
+*.xpr
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.wdb
+webtalk*
+
+# GHDL
+*.cf
+*.o
+work/
+
+# Editors / OS
+.~lock.*#
+*.swp
+.vscode/
+.DS_Store
